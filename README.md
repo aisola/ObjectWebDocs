@@ -1,4 +1,0 @@
-ObjectWebDocs
-=============
-
-ObjectWebDocumentation
